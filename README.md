@@ -49,7 +49,7 @@ python3 -m venv design_primers
 source design_primers/bin/activate
 ```
 
-*(Your terminal prompt should now show (oligo_env) at the beginning, indicating it is active.)*
+*(Your terminal prompt should now show (design_primers) at the beginning, indicating it is active.)*
 
 **2. Install Python Dependencies**
 This tool requires `biopython`, `primer3-py`, and `tqdm`.
