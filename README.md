@@ -31,9 +31,25 @@ It is an end-to-end solution that takes a genome, a list of gene targets, and pr
 ```bash
 git clone https://github.com/AHumanBrain/primer_designer.git
 ```
+
+**Enter the repository**
 ```bash
 cd primer_designer
 ```
+
+**Consider making a virtual environment to isolate your project**
+
+**Create a virtual environment called design_primers**
+```bash
+python3 -m venv design_primers
+```
+
+**Activate the virtual environment**
+```bash
+source design_primers/bin/activate
+```
+
+*(Your terminal prompt should now show (oligo_env) at the beginning, indicating it is active.)*
 
 **2. Install Python Dependencies**
 This tool requires `biopython`, `primer3-py`, and `tqdm`.
