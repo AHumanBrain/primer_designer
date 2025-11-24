@@ -20,8 +20,9 @@ It is an end-to-end solution that takes a genome, a list of gene targets, and pr
 
 ## Files in This Repository
 
-* `design_v7.7.py`: The main, executable Python script.
+* `design_v7.9.py`: The main, executable Python script.
 * `requirements.txt`: A list of all required Python libraries.
+* `housekeeping_genes.txt`: A sample list to get started with
 * `.gitignore`: A list of files (like results and BLAST databases) to ignore in version control.
 * `README.md`: This file.
 
